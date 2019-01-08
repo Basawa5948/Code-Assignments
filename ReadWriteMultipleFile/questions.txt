@@ -1,0 +1,15 @@
+[1] Read Input from Multiple Files from any directory on your system.
+
+[2] The Files can be of any type 
+XML
+JSON
+SQL
+CSV
+TXT
+
+[3] The Directory you choose can have multiple nested directories inside each directory.
+
+[4] Read all the files from all the directories from the given location and write the data out to one file.
+
+[5] The output file can be of any type. TXT or CSV.
+
